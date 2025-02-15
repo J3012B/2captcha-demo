@@ -5,7 +5,7 @@ This bot demonstrates how to solve reCAPTCHA v2 challenges using Puppeteer and 2
 ## Prerequisites
 
 - Node.js (v14 or higher)
-- A 2captcha API key (get it from https://2captcha.com)
+- A 2captcha API key (get it from https://2captcha.com/?from=25249966)
 
 ## Setup
 
